@@ -10,7 +10,7 @@ Here are examples how your files could look if you want to use a local Redis ins
 input {
   redis {
     host => localhost
-    key => "secure"
+    key => "ssh"
     data_type => list
   }
 }

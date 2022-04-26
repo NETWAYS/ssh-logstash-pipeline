@@ -1,4 +1,4 @@
-# secure-logstash-pipeline
+# ssh-logstash-pipeline
 
 ## Input and Output ##
 
